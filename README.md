@@ -2,6 +2,11 @@
 
 A fully functional food delivery web application built using the MERN stack (MongoDB, Express, React, and Node.js) with payment integration through Stripe. The application includes an admin interface for managing orders and tracking the status of food delivery.
 
+
+## Frontend Interface
+
+![Interface](food-del-ss/frontend.png)
+
 ## Features
 
 - **User Authentication**: Users can register, log in, and log out securely.
@@ -96,9 +101,9 @@ The admin panel provides administrators with control over the food delivery syst
 
 ### Admin Panel Screenshots
 
-![Add New Food](path_to_add_food_screenshot)
-![View Listed Foods](path_to_listed_foods_screenshot)
-![Manage Orders](path_to_manage_orders_screenshot)
+![Add New Food](food-del-ss/admin1.png)
+![View Listed Foods](food-del-ss/admin2.png)
+![Manage Orders](food-del-ss/admin3.png)
 
 
 
